@@ -21,3 +21,4 @@ matrix:
 install: /bin/true
 sudo: false
 script: mvn install -pl ${MODULES_TO_SKIP}
+
